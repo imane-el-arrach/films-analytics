@@ -70,8 +70,10 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 2 : Data Analyst - Exploration et Visualisation**")
 # Afficher l'image séparément
-st.image("architecturephase.png", use_container_width=True)
-
+st.image(
+    BASE_DIR / "architecturephase.png",
+    use_container_width=True
+)
 st.markdown(
         """
         <a href="https://github.com/imane-el-arrach/films-analytics" target="_blank">
