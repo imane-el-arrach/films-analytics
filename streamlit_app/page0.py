@@ -4,19 +4,19 @@ from pathlib import Path
 st.set_page_config(
     layout="wide",
     page_title="MovieLens Data Analysis",
-    page_icon="🎬"  # Emoji Unicode directement
+    page_icon="🎬"  
 )
 
 # Conteneur pour aligner les éléments horizontalement
 col1, col2, col3 = st.columns([1, 4, 1])
 
+BASE_DIR = Path(__file__).parent
 # Colonne gauche : Image
-with col1:
-    st.image(
-        "icon1.jpg",  # Remplacez par le chemin de votre image
-        width=80,     # Ajustez la taille si nécessaire
-        use_container_width=False,
-    )
+st.image(
+    BASE_DIR / "icon1.jpg",
+    width=80,
+    use_container_width=False
+)
 
 # Colonne centrale : Titre
 with col2:
