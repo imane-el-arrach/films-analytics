@@ -12,11 +12,12 @@ col1, col2, col3 = st.columns([1, 4, 1])
 
 BASE_DIR = Path(__file__).parent
 # Colonne gauche : Image
-st.image(
-    BASE_DIR / "icon1.jpg",
-    width=80,
-    use_container_width=False
-)
+with col1:
+    st.image(
+        BASE_DIR / "icon1.jpg",
+        width=80,
+        use_container_width=False
+    )
 
 # Colonne centrale : Titre
 with col2:
