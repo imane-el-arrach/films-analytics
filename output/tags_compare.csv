@@ -1,0 +1,21 @@
+tag,count_good,count_bad,total
+In Netflix queue,54,0,54
+atmospheric,16,0,16
+thought-provoking,13,1,14
+dark comedy,13,0,13
+suspense,11,1,12
+religion,7,4,11
+psychology,10,0,10
+emotional,10,0,10
+surreal,10,0,10
+superhero,1,9,10
+dark,9,1,10
+twist ending,9,0,9
+black comedy,9,0,9
+quirky,9,0,9
+Stephen King,4,4,8
+psychological,8,0,8
+comic book,1,7,8
+disturbing,8,0,8
+action,5,3,8
+Holocaust,7,0,7

@@ -1,0 +1,766 @@
+genre,tag,count
+Action,sci-fi,4
+Action,superhero,4
+Action,aliens,3
+Action,boxing,3
+Action,classic,2
+Action,action,2
+Action,EPIC,2
+Action,Arnold Schwarzenegger,2
+Action,time travel,2
+Action,archaeology,2
+Action,martial arts,2
+Action,beautiful scenery,1
+Action,epic,1
+Action,historical,1
+Action,inspirational,1
+Action,Medieval,1
+Action,mel gibson,1
+Action,Oscar (Best Cinematography),1
+Action,revenge,1
+Action,sword fight,1
+Action,space action,1
+Action,great soundtrack,1
+Action,classic sci-fi,1
+Action,engrossing adventure,1
+Action,Nerd,1
+Action,assassin,1
+Action,Jean Reno,1
+Action,predictable,1
+Action,apocalypse,1
+Action,nuclear war,1
+Action,Suspense,1
+Action,adventure,1
+Action,indiana jones,1
+Action,Steven Spielberg,1
+Action,treasure hunt,1
+Action,horror,1
+Action,space,1
+Action,space craft,1
+Action,SPACE TRAVEL,1
+Action,suspense,1
+Action,Action,1
+Action,artificial intelligence,1
+Action,robots,1
+Action,Sci-Fi,1
+Action,special effects,1
+Action,tense,1
+Action,crime,1
+Action,Borg,1
+Action,Klingons,1
+Action,Captain Kirk,1
+Action,Shark,1
+Action,shark,1
+Action,spying,1
+Action,Hawkeye,1
+Action,James Fennimore Cooper,1
+Action,dinosaurs,1
+Action,transplants,1
+Action,military,1
+Action,president,1
+Action,Tom Clancy,1
+Action,World War II,1
+Action,police,1
+Action,vampires,1
+Action,Capone,1
+Action,gangsters,1
+Action,terrorism,1
+Action,Australia,1
+Action,twist ending,1
+Action,alternate universe,1
+Action,virtual reality,1
+Action,prequel,1
+Action,the Force,1
+Action,dialogue,1
+Action,guns,1
+Action,Jesse Ventura,1
+Action,macho,1
+Action,scifi cult,1
+Action,"""artsy""",1
+Action,atmospheric,1
+Action,gritty,1
+Action,hallucinatory,1
+Action,surreal,1
+Action,visually stunning,1
+Action,boring,1
+Adventure,sci-fi,3
+Adventure,classic,2
+Adventure,action,2
+Adventure,EPIC,2
+Adventure,archaeology,2
+Adventure,Disney,2
+Adventure,martial arts,2
+Adventure,Australia,2
+Adventure,superhero,2
+Adventure,fantasy,1
+Adventure,magic board game,1
+Adventure,Robin Williams,1
+Adventure,space action,1
+Adventure,great soundtrack,1
+Adventure,classic sci-fi,1
+Adventure,engrossing adventure,1
+Adventure,Nerd,1
+Adventure,british comedy,1
+Adventure,Monty Python,1
+Adventure,adventure,1
+Adventure,indiana jones,1
+Adventure,Steven Spielberg,1
+Adventure,treasure hunt,1
+Adventure,aliens,1
+Adventure,horror,1
+Adventure,space,1
+Adventure,space craft,1
+Adventure,SPACE TRAVEL,1
+Adventure,suspense,1
+Adventure,India,1
+Adventure,Borg,1
+Adventure,dogs,1
+Adventure,remake,1
+Adventure,Captain Kirk,1
+Adventure,whales,1
+Adventure,dinosaurs,1
+Adventure,Tom Clancy,1
+Adventure,amnesia,1
+Adventure,Tolkein,1
+Adventure,mice,1
+Adventure,Pixar,1
+Adventure,prequel,1
+Adventure,the Force,1
+Animation,Disney,3
+Animation,Tolkein,1
+Animation,mice,1
+Animation,Pixar,1
+Animation,Bible,1
+Animation,Moses,1
+Animation,sci-fi,1
+Children,Disney,4
+Children,fantasy,1
+Children,magic board game,1
+Children,Robin Williams,1
+Children,black comedy,1
+Children,Christina Ricci,1
+Children,Christopher Lloyd,1
+Children,dark comedy,1
+Children,family,1
+Children,gothic,1
+Children,baseball,1
+Children,dogs,1
+Children,remake,1
+Children,jungle,1
+Children,twins,1
+Children,carnival,1
+Children,Ray Bradbury,1
+Children,Tolkein,1
+Children,mice,1
+Children,Pixar,1
+Children,martial arts,1
+Comedy,In Netflix queue,5
+Comedy,dark comedy,4
+Comedy,high school,4
+Comedy,Disney,3
+Comedy,personals ads,2
+Comedy,remake,2
+Comedy,Coen Brothers,2
+Comedy,slasher,2
+Comedy,spoof,2
+Comedy,reunion,2
+Comedy,1980s,2
+Comedy,Mafia,2
+Comedy,Australia,2
+Comedy,black comedy,1
+Comedy,Christina Ricci,1
+Comedy,Christopher Lloyd,1
+Comedy,family,1
+Comedy,gothic,1
+Comedy,good dialogue,1
+Comedy,great soundtrack,1
+Comedy,non-linear,1
+Comedy,test tag,1
+Comedy,based on a book,1
+Comedy,narrated,1
+Comedy,music,1
+Comedy,based on a true story,1
+Comedy,KIDNAPPING,1
+Comedy,Steve Buscemi,1
+Comedy,freedom of expression,1
+Comedy,british comedy,1
+Comedy,Monty Python,1
+Comedy,New York,1
+Comedy,dogs,1
+Comedy,whales,1
+Comedy,spying,1
+Comedy,mental illness,1
+Comedy,mockumentary,1
+Comedy,jungle,1
+Comedy,lawyer,1
+Comedy,hit men,1
+Comedy,ballroom dance,1
+Comedy,weddings,1
+Comedy,aliens,1
+Comedy,military,1
+Comedy,TV,1
+Comedy,sequel,1
+Comedy,politics,1
+Comedy,No DVD at Netflix,1
+Comedy,twins,1
+Comedy,mermaid,1
+Comedy,weather forecaster,1
+Comedy,aquarium,1
+Comedy,Boston,1
+Comedy,journalism,1
+Comedy,In Your Eyes,1
+Comedy,Lloyd Dobbler,1
+Comedy,Screwball,1
+Comedy,Broadway,1
+Comedy,court,1
+Comedy,Holocaust,1
+Comedy,football,1
+Comedy,Pixar,1
+Comedy,England,1
+Comedy,christmas,1
+Comedy,e-mail,1
+Comedy,doctors,1
+Comedy,kidnapping,1
+Comedy,food,1
+Comedy,stapler,1
+Comedy,workplace,1
+Comedy,disability,1
+Comedy,Shakespeare sort of,1
+Comedy,southern US,1
+Comedy,golfing,1
+Comedy,dark humor,1
+Comedy,easygoing,1
+Comedy,silly,1
+Comedy,really bad,1
+Comedy,Seann William Scott,1
+Crime,dark comedy,2
+Crime,psychology,2
+Crime,twist ending,2
+Crime,Al Pacino,1
+Crime,gangster,1
+Crime,mafia,1
+Crime,good dialogue,1
+Crime,great soundtrack,1
+Crime,non-linear,1
+Crime,assassin,1
+Crime,Jean Reno,1
+Crime,based on a book,1
+Crime,narrated,1
+Crime,based on a true story,1
+Crime,KIDNAPPING,1
+Crime,Steve Buscemi,1
+Crime,edward norton,1
+Crime,suspense,1
+Crime,thought-provoking,1
+Crime,ensemble cast,1
+Crime,nonlinear,1
+Crime,Quentin Tarantino,1
+Crime,stylized,1
+Crime,Alfred Hitchcock,1
+Crime,suspenseful,1
+Crime,tense,1
+Crime,lawyer,1
+Crime,superhero,1
+Crime,spying,1
+Crime,Shakespeare,1
+Crime,Mafia,1
+Crime,hit men,1
+Crime,reunion,1
+Crime,transplants,1
+Crime,Police,1
+Crime,Savannah,1
+Crime,Coen Brothers,1
+Crime,police,1
+Crime,murder,1
+Crime,Capone,1
+Crime,gangsters,1
+Crime,small towns,1
+Crime,court,1
+Crime,military,1
+Crime,racism,1
+Crime,heist,1
+Crime,religion,1
+Crime,stapler,1
+Crime,workplace,1
+Crime,black and white,1
+Documentary,In Netflix queue,2
+Documentary,General Motors,1
+Documentary,Michigan,1
+Documentary,Holocaust,1
+Documentary,Hungary,1
+Drama,In Netflix queue,12
+Drama,twist ending,4
+Drama,religion,3
+Drama,England,3
+Drama,boxing,3
+Drama,martial arts,3
+Drama,dark comedy,2
+Drama,psychology,2
+Drama,high school,2
+Drama,personals ads,2
+Drama,death,2
+Drama,military,2
+Drama,Henry James,2
+Drama,freaks,2
+Drama,atmospheric,2
+Drama,Al Pacino,1
+Drama,gangster,1
+Drama,mafia,1
+Drama,beautiful scenery,1
+Drama,epic,1
+Drama,historical,1
+Drama,inspirational,1
+Drama,Medieval,1
+Drama,mel gibson,1
+Drama,Oscar (Best Cinematography),1
+Drama,revenge,1
+Drama,sword fight,1
+Drama,good dialogue,1
+Drama,great soundtrack,1
+Drama,non-linear,1
+Drama,assassin,1
+Drama,Jean Reno,1
+Drama,based on a book,1
+Drama,narrated,1
+Drama,highschool,1
+Drama,Amazing Cinematography,1
+Drama,Leonardo DiCaprio,1
+Drama,shakespeare,1
+Drama,updated classics,1
+Drama,based on a true story,1
+Drama,KIDNAPPING,1
+Drama,Steve Buscemi,1
+Drama,edward norton,1
+Drama,suspense,1
+Drama,thought-provoking,1
+Drama,freedom of expression,1
+Drama,emotional,1
+Drama,jack nicholson,1
+Drama,baseball,1
+Drama,India,1
+Drama,lawyer,1
+Drama,prom,1
+Drama,Stephen King,1
+Drama,ex-con,1
+Drama,Arthur Miller,1
+Drama,sports,1
+Drama,spying,1
+Drama,Shakespeare,1
+Drama,Conan,1
+Drama,Andrew Lloyd Weber,1
+Drama,Vietnam,1
+Drama,Mafia,1
+Drama,Tolstoy,1
+Drama,ballroom dance,1
+Drama,transplants,1
+Drama,1970s,1
+Drama,Queen Victoria,1
+Drama,lawyers,1
+Drama,future,1
+Drama,Amish,1
+Drama,alternate universe,1
+Drama,TV,1
+Drama,Savannah,1
+Drama,Canada,1
+Drama,shipwreck,1
+Drama,Charles Dickens,1
+Drama,politics,1
+Drama,No DVD at Netflix,1
+Drama,World War II,1
+Drama,police,1
+Drama,music,1
+Drama,AIDs,1
+Drama,sexuality,1
+Drama,suburbia,1
+Drama,carnival,1
+Drama,Ray Bradbury,1
+Drama,S.E. Hinton,1
+Drama,mice,1
+Drama,1980s,1
+Drama,demons,1
+Drama,aquarium,1
+Drama,Boston,1
+Drama,murder,1
+Drama,Capone,1
+Drama,gangsters,1
+Drama,survival,1
+Drama,small towns,1
+Drama,train,1
+Drama,journalism,1
+Drama,In Your Eyes,1
+Drama,Lloyd Dobbler,1
+Drama,court,1
+Drama,adolescence,1
+Drama,death penalty,1
+Drama,Holocaust,1
+Drama,racism,1
+Drama,South America,1
+Drama,heist,1
+Drama,doctors,1
+Drama,disability,1
+Drama,Siam,1
+Drama,southern US,1
+Drama,motherhood,1
+Drama,comics,1
+Drama,father-son relationship,1
+Drama,mindfuck,1
+Drama,unique,1
+Drama,depressing,1
+Drama,great cinematography,1
+Drama,art house,1
+Drama,Atmospheric,1
+Drama,creepy,1
+Drama,cryptic,1
+Drama,dark,1
+Drama,disturbing,1
+Drama,dreamlike,1
+Drama,enigmatic,1
+Drama,fucked up,1
+Drama,gruesome,1
+Drama,hallucinatory,1
+Drama,Insane,1
+Drama,paranoid,1
+Drama,strange,1
+Drama,surreal,1
+Drama,weird,1
+Drama,somber,1
+Drama,Unique,1
+Drama,visually appealing,1
+Drama,visually stunning,1
+Drama,boring,1
+Fantasy,fantasy,1
+Fantasy,magic board game,1
+Fantasy,Robin Williams,1
+Fantasy,black comedy,1
+Fantasy,Christina Ricci,1
+Fantasy,Christopher Lloyd,1
+Fantasy,dark comedy,1
+Fantasy,family,1
+Fantasy,gothic,1
+Fantasy,british comedy,1
+Fantasy,Monty Python,1
+Fantasy,baseball,1
+Fantasy,high school,1
+Fantasy,prom,1
+Fantasy,Stephen King,1
+Fantasy,Disney,1
+Fantasy,In Netflix queue,1
+Fantasy,carnival,1
+Fantasy,Ray Bradbury,1
+Fantasy,mermaid,1
+Fantasy,archaeology,1
+Fantasy,Tolkein,1
+Fantasy,freaks,1
+Fantasy,sci-fi,1
+Film-Noir,Police,1
+Film-Noir,amnesia,1
+Film-Noir,memory,1
+Film-Noir,murder,1
+Film-Noir,paranoia,1
+Film-Noir,motherhood,1
+Horror,Stephen King,4
+Horror,aliens,2
+Horror,suspense,2
+Horror,atmospheric,2
+Horror,disturbing,2
+Horror,vampires,2
+Horror,demons,2
+Horror,slasher,2
+Horror,spoof,2
+Horror,evil children,2
+Horror,hallucinatory,2
+Horror,surreal,2
+Horror,action,1
+Horror,horror,1
+Horror,sci-fi,1
+Horror,space,1
+Horror,space craft,1
+Horror,SPACE TRAVEL,1
+Horror,Alfred Hitchcock,1
+Horror,psychology,1
+Horror,suspenseful,1
+Horror,tense,1
+Horror,Horror,1
+Horror,jack nicholson,1
+Horror,masterpiece,1
+Horror,psychological,1
+Horror,Stanley Kubrick,1
+Horror,birds,1
+Horror,high school,1
+Horror,prom,1
+Horror,Shark,1
+Horror,shark,1
+Horror,sequel,1
+Horror,ghosts,1
+Horror,In Netflix queue,1
+Horror,art house,1
+Horror,Atmospheric,1
+Horror,creepy,1
+Horror,cryptic,1
+Horror,dark,1
+Horror,dreamlike,1
+Horror,enigmatic,1
+Horror,fucked up,1
+Horror,gruesome,1
+Horror,Insane,1
+Horror,paranoid,1
+Horror,strange,1
+Horror,weird,1
+Horror,"""artsy""",1
+Horror,gritty,1
+Horror,visually stunning,1
+IMAX,In Netflix queue,1
+Musical,high school,2
+Musical,Andrew Lloyd Weber,1
+Musical,Disney,1
+Musical,Bible,1
+Musical,Moses,1
+Musical,Siam,1
+Mystery,twist ending,3
+Mystery,religion,2
+Mystery,slasher,2
+Mystery,spoof,2
+Mystery,edward norton,1
+Mystery,psychology,1
+Mystery,suspense,1
+Mystery,thought-provoking,1
+Mystery,ensemble cast,1
+Mystery,nonlinear,1
+Mystery,Quentin Tarantino,1
+Mystery,stylized,1
+Mystery,demons,1
+Mystery,Klingons,1
+Mystery,Police,1
+Mystery,lawyers,1
+Mystery,Savannah,1
+Mystery,sequel,1
+Mystery,police,1
+Mystery,sexuality,1
+Mystery,suburbia,1
+Mystery,carnival,1
+Mystery,Ray Bradbury,1
+Mystery,theater,1
+Mystery,paranoia,1
+Mystery,train,1
+Mystery,black and white,1
+Mystery,cerebral,1
+Mystery,dreamlike,1
+Romance,high school,4
+Romance,personals ads,2
+Romance,In Netflix queue,2
+Romance,England,2
+Romance,1980s,2
+Romance,predictable,1
+Romance,Amazing Cinematography,1
+Romance,Leonardo DiCaprio,1
+Romance,shakespeare,1
+Romance,updated classics,1
+Romance,New York,1
+Romance,sports,1
+Romance,Hemingway,1
+Romance,Hawkeye,1
+Romance,James Fennimore Cooper,1
+Romance,Shakespeare,1
+Romance,mental illness,1
+Romance,Tolstoy,1
+Romance,hit men,1
+Romance,reunion,1
+Romance,ballroom dance,1
+Romance,weddings,1
+Romance,Queen Victoria,1
+Romance,Amish,1
+Romance,alternate universe,1
+Romance,Henry James,1
+Romance,shipwreck,1
+Romance,Charles Dickens,1
+Romance,twins,1
+Romance,music,1
+Romance,Disney,1
+Romance,mermaid,1
+Romance,weather forecaster,1
+Romance,aquarium,1
+Romance,Boston,1
+Romance,theater,1
+Romance,journalism,1
+Romance,In Your Eyes,1
+Romance,Lloyd Dobbler,1
+Romance,freaks,1
+Romance,Holocaust,1
+Romance,e-mail,1
+Romance,remake,1
+Romance,food,1
+Romance,disability,1
+Romance,Siam,1
+Romance,Shakespeare sort of,1
+Romance,Unique,1
+Romance,visually appealing,1
+Romance,visually stunning,1
+Sci-Fi,sci-fi,5
+Sci-Fi,aliens,4
+Sci-Fi,superhero,3
+Sci-Fi,atmospheric,3
+Sci-Fi,classic,2
+Sci-Fi,action,2
+Sci-Fi,EPIC,2
+Sci-Fi,Arnold Schwarzenegger,2
+Sci-Fi,time travel,2
+Sci-Fi,evil children,2
+Sci-Fi,space action,1
+Sci-Fi,great soundtrack,1
+Sci-Fi,classic sci-fi,1
+Sci-Fi,engrossing adventure,1
+Sci-Fi,Nerd,1
+Sci-Fi,apocalypse,1
+Sci-Fi,nuclear war,1
+Sci-Fi,Suspense,1
+Sci-Fi,horror,1
+Sci-Fi,space,1
+Sci-Fi,space craft,1
+Sci-Fi,SPACE TRAVEL,1
+Sci-Fi,suspense,1
+Sci-Fi,Action,1
+Sci-Fi,artificial intelligence,1
+Sci-Fi,robots,1
+Sci-Fi,Sci-Fi,1
+Sci-Fi,special effects,1
+Sci-Fi,tense,1
+Sci-Fi,Borg,1
+Sci-Fi,Klingons,1
+Sci-Fi,Captain Kirk,1
+Sci-Fi,whales,1
+Sci-Fi,spying,1
+Sci-Fi,dinosaurs,1
+Sci-Fi,future,1
+Sci-Fi,TV,1
+Sci-Fi,amnesia,1
+Sci-Fi,Disney,1
+Sci-Fi,twist ending,1
+Sci-Fi,alternate universe,1
+Sci-Fi,virtual reality,1
+Sci-Fi,prequel,1
+Sci-Fi,the Force,1
+Sci-Fi,In Netflix queue,1
+Sci-Fi,dialogue,1
+Sci-Fi,guns,1
+Sci-Fi,Jesse Ventura,1
+Sci-Fi,macho,1
+Sci-Fi,scifi cult,1
+Sci-Fi,comics,1
+Sci-Fi,father-son relationship,1
+Sci-Fi,mindfuck,1
+Sci-Fi,unique,1
+Sci-Fi,somber,1
+Sci-Fi,"""artsy""",1
+Sci-Fi,gritty,1
+Sci-Fi,hallucinatory,1
+Sci-Fi,surreal,1
+Sci-Fi,visually stunning,1
+Sci-Fi,really bad,1
+Sci-Fi,Seann William Scott,1
+Thriller,Stephen King,4
+Thriller,twist ending,3
+Thriller,demons,2
+Thriller,slasher,2
+Thriller,spoof,2
+Thriller,evil children,2
+Thriller,good dialogue,1
+Thriller,great soundtrack,1
+Thriller,non-linear,1
+Thriller,assassin,1
+Thriller,Jean Reno,1
+Thriller,based on a true story,1
+Thriller,dark comedy,1
+Thriller,KIDNAPPING,1
+Thriller,Steve Buscemi,1
+Thriller,edward norton,1
+Thriller,psychology,1
+Thriller,suspense,1
+Thriller,thought-provoking,1
+Thriller,ensemble cast,1
+Thriller,nonlinear,1
+Thriller,Quentin Tarantino,1
+Thriller,stylized,1
+Thriller,Action,1
+Thriller,artificial intelligence,1
+Thriller,robots,1
+Thriller,Sci-Fi,1
+Thriller,special effects,1
+Thriller,tense,1
+Thriller,time travel,1
+Thriller,birds,1
+Thriller,remake,1
+Thriller,lawyer,1
+Thriller,high school,1
+Thriller,prom,1
+Thriller,Borg,1
+Thriller,Captain Kirk,1
+Thriller,dinosaurs,1
+Thriller,transplants,1
+Thriller,president,1
+Thriller,Tom Clancy,1
+Thriller,Police,1
+Thriller,lawyers,1
+Thriller,future,1
+Thriller,Amish,1
+Thriller,sequel,1
+Thriller,amnesia,1
+Thriller,police,1
+Thriller,sexuality,1
+Thriller,suburbia,1
+Thriller,carnival,1
+Thriller,Ray Bradbury,1
+Thriller,vampires,1
+Thriller,murder,1
+Thriller,theater,1
+Thriller,small towns,1
+Thriller,paranoia,1
+Thriller,train,1
+Thriller,court,1
+Thriller,military,1
+Thriller,terrorism,1
+Thriller,heist,1
+Thriller,religion,1
+Thriller,ghosts,1
+Thriller,alternate universe,1
+Thriller,black and white,1
+Thriller,virtual reality,1
+Thriller,aliens,1
+Thriller,Arnold Schwarzenegger,1
+Thriller,dialogue,1
+Thriller,guns,1
+Thriller,Jesse Ventura,1
+Thriller,macho,1
+Thriller,sci-fi,1
+Thriller,scifi cult,1
+Thriller,cerebral,1
+Thriller,dreamlike,1
+Thriller,"""artsy""",1
+Thriller,atmospheric,1
+Thriller,gritty,1
+Thriller,hallucinatory,1
+Thriller,surreal,1
+Thriller,visually stunning,1
+War,beautiful scenery,1
+War,epic,1
+War,historical,1
+War,inspirational,1
+War,Medieval,1
+War,mel gibson,1
+War,Oscar (Best Cinematography),1
+War,revenge,1
+War,sword fight,1
+War,dark comedy,1
+War,Hemingway,1
+War,Hawkeye,1
+War,James Fennimore Cooper,1
+War,military,1
+War,World War II,1
+War,survival,1
+War,Holocaust,1
+Western,crime,1
+Western,Hawkeye,1
+Western,James Fennimore Cooper,1
+Western,music,1
+Western,dark humor,1
+Western,easygoing,1
+Western,silly,1
