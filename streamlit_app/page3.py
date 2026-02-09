@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 
 
-"""##### ====== Mise en cache de l'initialisation du Client ===
+##### ====== Mise en cache de l'initialisation du Client ===
 from imane_moviessdk import MovieClient, MovieConfig
 
 @st.cache_resource
@@ -136,4 +136,3 @@ if st.button("🔍 Lancer la recherche"):
 
 else:
     st.info("🧭 Définissez vos filtres, puis cliquez sur **Lancer la recherche** pour explorer les films.")
-"""
